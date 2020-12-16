@@ -35,11 +35,9 @@ const colors = [ 'red' , 'white', 'black' , 'green' , 'orange'];
 //hint: the volumen of a sphere is ((4/3) × π × r^3) and the surface area is (4 × π × r^2)
 
 
-const calculate_sphere = () =>{
+const calculateSphere = () =>{
 
  }
-
-window.onload = document.getElementById('MyForm').onsubmit = calculate_sphere; // this execute the volume_sphere function each time the calculate (submit) button is clicked
 
 
 
